@@ -1,5 +1,5 @@
 # vehicle_hunter
-A vehicle trading website implemented using PHP for front-end and SQL for back-end.
+A vehicle trading website implemented using PHP for front-end and SQL for back-end. This project used to be deployed on Amazon Elastic Beanstalk, but currently off. We are working on the re-deployment.
 
 This repository includes:
 
